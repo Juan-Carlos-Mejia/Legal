@@ -1,0 +1,42 @@
+[
+    {
+        "keywords": ["hola", "buenas"],
+        "response": "¡Hola! ¿Cómo puedo ayudarte?"
+    },
+    {
+        "keywords": ["cómo", "estás"],
+        "response": "Estoy bien, gracias por preguntar. ¿Y tú?"
+    },
+    {
+        "keywords": ["adiós", "chao"],
+        "response": "¡Adiós! Que tengas un buen día."
+    },
+    {
+        "keywords": ["nombre", "quien", "llamas"],
+        "response": "Soy Legal IA, tu asistente legal. ¿En qué te puedo ayudar?"
+    },
+    {
+        "keywords": ["ayuda", "como hago"],
+        "response": "Claro, ¿en qué puedo ayudarte?"
+    },
+    {
+        "keywords": ["puedes", "hacer"],
+        "response": "Puedo responder algunas preguntas básicas. ¡Inténtalo!"
+    },
+    {
+        "keywords": ["ayuda", "caso"],
+        "response": "Claro, dirígete al menú principal, opción caso y agrega un caso."
+    },
+    {
+        "keywords": ["hora", "qué hora es"],
+        "response": "La hora actual es "
+    },
+    {
+        "keywords": ["procesos judiciales", "gestionar casos"],
+        "response": "Dentro de LegalConnect, puedes gestionar diversos procesos judiciales. Aquí tienes una lista de los principales procesos que puedes gestionar:\n\n- Demandas civiles\n- Recursos de apelación\n- Gestiones administrativas\n- Juicios laborales\n- Procesos penales\n- Mediación y arbitraje\n\n¿Te gustaría más detalles sobre alguno de ellos?"
+    }
+    
+ 
+    
+]
+
